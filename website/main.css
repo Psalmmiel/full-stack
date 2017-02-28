@@ -1,1 +1,27 @@
+* {
+  box-sizing:border-box
+}
 
+/************ Desktop Version ****************/
+@media (min-width:992px) {
+
+
+}
+
+
+/************ Tablet Version ****************/
+@media (min-width:768px) and (max-width:991px) {
+
+
+}
+  
+
+/************ Mobile Version ****************/
+@media (min-width:767px) {
+
+
+}
+
+.row {
+  width: 100%
+}
