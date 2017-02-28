@@ -4,6 +4,7 @@
 
 h1 {
 font-size: 30px; 
+text-align: center;
 }
 
 p {
@@ -155,5 +156,5 @@ p {
 }
 
 .row {
-  width: 100%
+  width: 33%
 }
