@@ -2,12 +2,16 @@
   box-sizing:border-box
 }
 
+h1 {
+font-size: 30px; 
+}
 
 p {
             background-color: orange;
             width: 90%;
             height: 150px;
             color: white;
+            padding: auto;
             font-family: 'roboto', san-serif;
             margin-right: auto;
             margin-left: auto;
