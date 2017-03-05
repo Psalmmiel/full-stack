@@ -10,7 +10,7 @@ h1 {
 
 p {
     background-color: orange;
-    width: 90%;
+    width: 100px;
     height: auto;
     color: white;
     font-family: 'roboto', san-serif;
@@ -46,7 +46,7 @@ p {
 #chicken {
     position: absolute;
     margin-top: 30px;
-    margin-left: 269px;
+    margin-left: 274px;
     background-color: limegreen;
     border: 1px solid black;
     width: 100px;
@@ -58,7 +58,7 @@ p {
 #beaf {
     position: absolute;
     margin-top: 30px;
-    margin-left: 268px;
+    margin-left: 274px;
     background-color: limegreen;
     border: 1px solid black;
     width: 100px;
@@ -70,7 +70,7 @@ p {
 #sushi {
     position: absolute;
     margin-top: 30px;
-    margin-left: 269px;
+    margin-left: 274px;
     background-color: limegreen;
     border: 1px solid black;
     width: 100px;
